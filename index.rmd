@@ -1,7 +1,7 @@
 ---
 title: Ingeniería financiera (IF). `r fontawesome::fa("cogs")` 
-subtitle: Course syllabus. Spring 2023.
-author: Dr. Martín Lozano. `r fontawesome::fa("envelope")` <tt>`<martin.lozano@udem.edu>`</tt>
+subtitle: Course syllabus `r fontawesome::fa("chalkboard-teacher")` Spring 2023.
+author: Dr. Martín Lozano `r fontawesome::fa("envelope")` <tt>`<martin.lozano@udem.edu>`</tt>
 #- name: Back to main [`r fontawesome::fa("home")`](https://mlozanoqf.github.io/)
 #  affiliation: Academic website. [Web.](https://sites.google.com/site/mlozanoqf/)
 date: Current `r fontawesome::fa("code-commit") ` `r format(Sys.time(), '%d %b %Y, %H:%M:%S.')`
@@ -61,47 +61,47 @@ xfun::file_string('contact.html')
 ```
 ````
 
-# [`r fa("arrow-circle-up", fill = "black")`](https://mlozanoqf.github.io/ARF1/) [<span style="color: black">Back to top.</span>](https://mlozanoqf.github.io/ARF1/) {-}
+# [`r fa("arrow-circle-up", fill = "black")`](https://mlozanoqf.github.io/IF/) [<span style="color: black">Back to top.</span>](https://mlozanoqf.github.io/IF/) {-}
 
 \newpage
 
 ```{r introduction, child = 'Introduction.Rmd'}
 ```
 
-<!-- \newpage -->
+\newpage
 
-<!-- ```{r overview, child = 'Course overview.Rmd'} -->
-<!-- ``` -->
+```{r overview, child = 'Course overview.Rmd'}
+```
 
-<!-- \newpage -->
+\newpage
 
-<!-- ```{r data science, child = 'Data Science.Rmd'} -->
-<!-- ``` -->
+```{r data science, child = 'Data Science.Rmd'}
+```
 
-<!-- \newpage -->
+\newpage
 
-<!-- ```{r resources and activities, child = 'Learning resources and activities.Rmd'} -->
-<!-- ``` -->
+```{r resources and activities, child = 'Learning resources and activities.Rmd'}
+```
 
-<!-- \newpage -->
+\newpage
 
-<!-- ```{r evaluation, child = 'Evaluation.Rmd'} -->
-<!-- ``` -->
+```{r evaluation, child = 'Evaluation.Rmd'}
+```
 
-<!-- \newpage -->
+\newpage
 
-<!-- ```{r check, child = 'Checklist.Rmd'} -->
-<!-- ``` -->
+```{r check, child = 'Checklist.Rmd'}
+```
 
-<!-- <!-- \newpage --> -->
+\newpage
 
-<!-- <!-- ```{r schedule, child = 'Class schedule.Rmd'} --> -->
-<!-- <!-- ``` --> -->
+```{r schedule, child = 'Class schedule.Rmd'}
+```
 
-<!-- \newpage -->
+\newpage
 
-<!-- ```{r resources, child = 'Internet resources.Rmd'} -->
-<!-- ``` -->
+```{r resources, child = 'Internet resources.Rmd'}
+```
 
 ```{r include=FALSE}
 a <- toc()

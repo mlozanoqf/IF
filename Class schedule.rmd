@@ -1,0 +1,108 @@
+---
+title: ''
+  html_document:
+    df_print: paged
+---
+
+\newpage
+
+# `r fontawesome::fa("calendar-alt")` Class schedule. 
+
+IF, Spring 2023. Room 1401, 19:00 – 22:00.
+
+## Part 1. `r fontawesome::fa("battery-quarter")`
+
+**Session 1. `r fontawesome::fa("credit-card")` Thursday, 12 January.**
+
+- Readings. Course syllabus (this document).
+- Activity. Welcome. Introduction to the course.
+- Activity. Set up your free DataCamp and Deepnote accounts (you should have invitations in your UDEM student email).
+- Activity. Define your group of no more than 4 members (you should have an invitation in your UDEM student email).
+
+
+
+**Session 2. Thursday, 19 January.**
+
+
+
+**Session 3. Thursday, 26 January.**
+
+- $H_1$ review session.
+
+
+**Session 4. Thursday, 2 February.**
+
+- Complete $H_1$ before 10:00 a.m.
+- Review $H_1$ answers.
+- $E_1$ review session.
+
+
+**Session 5. Thursday, 9 February.**
+
+- $E_1$ instructions available in Blackboard.
+- Review $E_1$ answers.
+
+## Part 2. `r fontawesome::fa("battery-half")`
+
+**Session 6. Thursday, 16 February.**
+
+- Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
+
+
+**Session 7. Thursday, 23 February.**
+
+
+**Session 8. Thursday, 2 March.**
+
+- $H_2$ review session.
+
+
+**Session 9. Thursday, 9 March.**
+
+- Complete $H_2$ before 10:00 a.m.
+- Review $H_2$ answers.
+- $E_2$ review session.
+
+
+**Session 10. Thursday, 16 March.**
+
+- $E_2$ instructions available in Blackboard.
+- Review $E_2$ answers.
+
+
+## Part 3. `r fontawesome::fa("battery-three-quarters")`
+
+**Session 11. Thursday, 23 March.**
+
+- Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
+
+
+**Session 12. Thursday, 30 March.**
+
+
+**Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, 6 April.**
+
+**Session 13. Thursday, 13 April.**
+
+
+
+**Session 14. Thursday, 20 April.**
+
+**Session 15. Thursday, 27 April.**
+
+
+
+**Session 16. Thursday, 4 May.**
+
+- Complete $H_3$ before 10:00 a.m.
+- $E_F$ review session.
+- Farewell.
+
+## The end. `r fontawesome::fa("battery-full")`
+
+**Final exam. Saturday, 20 May, 13:00 – 15:00.**
+
+- $E_F$ instructions available in Blackboard.
+
+
+\newpage
