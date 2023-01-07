@@ -28,10 +28,12 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 **Session 3. Thursday, 26 January.**
 
 - $H_1$ review session.
+- Extra marks. DataCamp skill track: Applied Finance in R. Before 10:00 a.m.
 
 
 **Session 4, Zoom. Thursday, 2 February.**
 
+- Super extra marks. Individual class activity. DataCamp assessment: R Programming.
 - $ME_1$ instructions available in Blackboard.
 - Complete $H_1$ before 10:00 a.m.
 - Review $H_1$ answers.
@@ -49,7 +51,7 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 **Session 6. Thursday, 16 February.**
 
 - Submit $H_1$ and $E_1$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
-
+- Extra marks. DataCamp skill track: Shiny Fundamentals with R. Before 10:00 a.m.
 
 **Session 7. Thursday, 23 February.**
 
@@ -57,11 +59,13 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 **Session 8. Thursday, 2 March.**
 
 - $H_2$ review session.
-- Extra marks course: [Open Online Course on Gender and Environment.](https://unccelearn.org/course/view.php?id=39&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
+- Extra marks course: [Open Online Course on Gender and Environment.](https://unccelearn.org/course/view.php?id=39&page=overview) Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
 
 
-**Session 9. Thursday, 9 March.**
+**Session 9, Zoom. Thursday, 9 March.**
 
+- Super extra marks. Individual class activity. DataCamp assessment: Data Visualization with R.
+- $ME_2$ instructions available in Blackboard.
 - Complete $H_2$ before 10:00 a.m.
 - Review $H_2$ answers.
 - $E_2$ review session.
@@ -78,19 +82,28 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 **Session 11. Thursday, 23 March.**
 
 - Submit $H_2$ and $E_2$ auto and co-evaluation before 10:00 a.m. Instructions available in Blackboard.
+- Extra marks. DataCamp skill track: Big Data with R. Before 10:00 a.m.
+
+
 
 
 **Session 12. Thursday, 30 March.**
+
 
 
 **Holiday. `r fontawesome::fa("umbrella-beach")` Thursday, 6 April.**
 
 **Session 13. Thursday, 13 April.**
 
-- Extra marks course: [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
+- Extra marks course: [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview) Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
 
 
 **Session 14. Thursday, 20 April.**
+
+- Extra marks. DataCamp skill track: Intermediate Tidyverse Toolbox. Before 10:00 a.m.
+
+
+
 
 **Session 15, Zoom. Thursday, 27 April.**
 
