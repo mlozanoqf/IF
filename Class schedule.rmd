@@ -30,17 +30,19 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 - $H_1$ review session.
 
 
-**Session 4. Thursday, 2 February.**
+**Session 4, Zoom. Thursday, 2 February.**
 
+- $ME_1$ instructions available in Blackboard.
 - Complete $H_1$ before 10:00 a.m.
 - Review $H_1$ answers.
 - $E_1$ review session.
 
 
-**Session 5. Thursday, 9 February.**
+**Session 5, Zoom. Thursday, 9 February.**
 
 - $E_1$ instructions available in Blackboard.
 - Review $E_1$ answers.
+- The wheel of fortune.
 
 ## Part 2. `r fontawesome::fa("battery-half")`
 
@@ -55,6 +57,7 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 **Session 8. Thursday, 2 March.**
 
 - $H_2$ review session.
+- Extra marks course: [Open Online Course on Gender and Environment.](https://unccelearn.org/course/view.php?id=39&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
 
 
 **Session 9. Thursday, 9 March.**
@@ -64,11 +67,11 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 - $E_2$ review session.
 
 
-**Session 10. Thursday, 16 March.**
+**Session 10, Zoom. Thursday, 16 March.**
 
 - $E_2$ instructions available in Blackboard.
 - Review $E_2$ answers.
-
+- The wheel of fortune.
 
 ## Part 3. `r fontawesome::fa("battery-three-quarters")`
 
@@ -84,11 +87,14 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 
 **Session 13. Thursday, 13 April.**
 
+- Extra marks course: [Introduction to Green Economy.](https://unccelearn.org/course/view.php?id=51&page=overview). Please submit your PDF certificate before 10:00 a.m. by the Discussion forum in Blackboard.
 
 
 **Session 14. Thursday, 20 April.**
 
-**Session 15. Thursday, 27 April.**
+**Session 15, Zoom. Thursday, 27 April.**
+
+- $ME_F$ instructions available in Blackboard.
 
 
 
@@ -96,11 +102,17 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 
 - Complete $H_3$ before 10:00 a.m.
 - $E_F$ review session.
+- The wheel of fortune.
 - Farewell.
+
+**Session 17, Zoom. Friday, 12 May, 16:00 – 19:00.**
+
+- Open rehearsal PEF students.
+
 
 ## The end. `r fontawesome::fa("battery-full")`
 
-**Final exam. Saturday, 20 May, 13:00 – 15:00.**
+**Final exam, Zoom. Saturday, 20 May, 13:00 – 15:00.**
 
 - $E_F$ instructions available in Blackboard.
 
