@@ -20,14 +20,14 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 - Activity. Define your group of no more than 4 members, you should have an invitation in your UDEM student email.
 - Register and attend the following DataCamp webinar. [Exploratory data analysis in R for absolute beginners.](https://www.datacamp.com/webinars/data-analysis-r-beginners)
 - Reading. @Hull9, Chapter 10 *Mechanics of options markets*.
-- Reading. @lozanoIF, Chapter 1 *Options*.
+- Reading. @lozanoIF, Chapter 1 *Payoff functions*.
 - Complementary material. Video: [Mechanics of options markets.](https://youtu.be/z7P2bMCovf0)
 - Complementary material. @brealey2020principles, Chapter 20 *Understanding options*.
 
 **Session 2. Thursday, 19 January.**
 
 - Reading. @Hull9, Chapter 12 *Trading strategies involving options*. 
-- Reading. @lozanoIF, Chapter 1 *Options*.
+- Reading. @lozanoIF, Chapter 1 *Payoff functions*.
 - Complementary material. PowerPoint slides: [John C. Hull.](https://www-2.rotman.utoronto.ca/~hull/ofodslides/index.html)
 
 **Session 3. Thursday, 26 January.**
@@ -110,13 +110,13 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 **Session 13. Thursday, 13 April.**
 
 - Reading. @Hull9, Chapter 22 *Value at Risk (sections 22.1 to 22.4)*.
-- Reading. @lozanoIF, Chapter 5 *VaR*.
+- Reading. @lozanoIF, Chapter 5 *Value at Risk*.
 - Extra marks. [Introduction to green economy.](https://unccelearn.org/course/view.php?id=51&page=overview) Submit your PDF certificate before 10:00 a.m. by the discussion forum.
 
 **Session 14. Thursday, 20 April.**
 
 - Reading. @Hull9, Section 23.8 *Estimating volatilities and correlations*. 
-- Reading. @lozanoIF, Chapter 5 *VaR*.
+- Reading. @lozanoIF, Chapter 5 *Value at Risk*.
 - Complementary material. @brealey2020principles, Chapter 8 *Portfolio theory and the capital asset pricing model*.
 - To know more about portfolio selection see @ruppert2011statistics, Chapters 16.
 - Extra marks. DataCamp skill track: *Intermediate tidyverse toolbox*. Before 10:00 a.m.
