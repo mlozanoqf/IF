@@ -18,7 +18,7 @@ IF, Spring 2023. Room 1401, 19:00 – 22:00.
 - Activity. Welcome and introduction to the course.
 - Activity. Set up your free DataCamp and Deepnote accounts, you should have invitations in your UDEM student email.
 - Activity. Define your group of no more than 4 members, you should have an invitation in your UDEM student email.
-- Register and attend the following DataCamp webinar. [Exploratory data analysis in R for absolute beginners.](https://www.datacamp.com/webinars/data-analysis-r-beginners)
+- Non graded. Register and attend the following DataCamp webinar. [Exploratory data analysis in R for absolute beginners.](https://www.datacamp.com/webinars/data-analysis-r-beginners)
 - Reading. @Hull9, Chapter 10 *Mechanics of options markets*.
 - Reading. @lozanoIF, Chapter 1 *Payoff functions*.
 - Complementary material. Video: [Mechanics of options markets.](https://youtu.be/z7P2bMCovf0)
