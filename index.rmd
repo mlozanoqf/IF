@@ -1,5 +1,5 @@
 ---
-title: Ingeniería financiera (IF). #`r fontawesome::fa("cogs")` 
+title: Ingeniería financiera IF. #`r fontawesome::fa("cogs")` 
 subtitle: Course syllabus. Fall 2023. 
 author: Dr. Martín Lozano <tt>`<martin.lozano@udem.edu>`</tt>
 #- name: Back to main [`r fontawesome::fa("home")`](https://mlozanoqf.github.io/)
