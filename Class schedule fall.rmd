@@ -125,6 +125,10 @@ IF, Fall 2023. Room 1307, 19:00 – 22:00.
 - Extra marks. The wheel of fortune 3/3.
 - Farewell.
 
+**Session 16, Zoom. Tuesday, 21 November.**
+
+- Review.
+
 ## `r fontawesome::fa("battery-full")` The end.
 
 **Final exam, Zoom. Monday, 27 November, 19:00 – 21:00.**
