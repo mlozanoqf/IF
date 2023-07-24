@@ -8,7 +8,11 @@ title: ''
 
 # `r fontawesome::fa("calendar-alt")` Class schedule. 
 
-IF, Fall 2023. Room 1307, 19:00 – 22:00.
+`r fontawesome::fa("cogs")` IF, Fall 2023. 
+
+Room 1307, 19:00 – 22:00.
+
+Zoom [https://us02web.zoom.us/j/85306454234](https://us02web.zoom.us/j/85306454234)
 
 ## `r fontawesome::fa("battery-quarter")` Part 1.
 
@@ -60,6 +64,7 @@ IF, Fall 2023. Room 1307, 19:00 – 22:00.
 - Complementary material. @brealey2020principles, Chapter 20 *Understanding options*.
 - Graded. Submit $H_1$ and $E_1$ auto and co-evaluation before 7:00 a.m. Instructions in Blackboard.
 - Extra marks 3/8. [Plastic Waste and the Basel Convention.](https://unccelearn.org/course/view.php?id=131&page=overview) Submit your PDF certificate before 7:00 a.m. by the discussion forum.
+- Complementary material. [The Plastic Recycling Myth.](https://youtu.be/zZlRhCDzh2A)
 
 **Session 7. Monday, 18 September.**
 
@@ -96,6 +101,7 @@ IF, Fall 2023. Room 1307, 19:00 – 22:00.
 - Reading. @Hull9, Chapter 14 *Wiener Processes and Itô's lemma*. 
 - Reading. @lozanoIF, Chapter 4 *Wiener processes*.
 - Complementary material. Blog entry: [Brownian motion in financial markets.](https://www.cantorsparadise.com/brownian-motion-in-financial-markets-ea5f02204b14)
+- Complementary material. Video. [1000 step version of four Wiener process.](https://youtu.be/X-VRWeqG_I8)
 - Graded. Submit $H_2$ and $E_2$ auto and co-evaluation before 7:00 a.m. Instructions in Blackboard.
 - Non graded. Mention DataCamp in social media if possible. [Instructions.](https://docs.google.com/document/d/1Dv-L036CZWsZCmn9W5p0ikgetlc4GcT-NQ9Rp_HebE0/edit)
 - Extra marks 6/8. [Food Waste Prevention.](https://unccelearn.org/course/view.php?id=129&page=overview) Submit your PDF certificate before 7:00 a.m. by the discussion forum.
